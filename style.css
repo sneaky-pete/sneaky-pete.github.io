@@ -1,0 +1,48 @@
+body{
+	background-image: url("chanceBackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#logo{
+	text-align: center;	
+	margin-top: 10px;
+}
+
+li {
+	display: inline-block;
+	margin: 20px 15px 0px 15px;
+	color: black;
+	/*font-weight: 300;*/
+	font-family: 'Catamaran', sans-serif;
+	font-size: 18px;
+}
+
+
+a{
+	color: black;
+	/*text-decoration: underline;*/
+}
+
+#topbar{
+	text-align: center;
+}
+
+#face{
+	width: 50px;
+	margin: auto -5px;
+}
+
+.center{
+	text-align: center;
+}
+
+.btn{
+	font-family: 'Catamaran', sans-serif;
+	/*font-weight: lighter;*/
+	border-radius: 15px;
+	margin-top: 20px;
+	padding: 5px 20px 0px;
+	background-color: black;
+	border: none;
+}
