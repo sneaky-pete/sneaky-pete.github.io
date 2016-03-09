@@ -1,3 +1,7 @@
+* {
+	font-family: 'Catamaran', sans-serif;
+}
+
 body{
 	background-image: url("../images/chanceBackground.jpg");
 	background-repeat: no-repeat;
